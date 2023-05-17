@@ -1,0 +1,10 @@
+Jose|Garcia|5000.00|TI
+Rosario|Vazquez|7600.00|TI
+Luis|Prieto|10000.00|TI
+Luis|Vazquez|4500.00|Ventas
+Gabriela|Prieto|6000.00|Ventas
+Vianney|Rodriguez|65000.00|Marketing
+Francisco|Vazquez|50000.00|Marketing
+Irma|Dominguez|7500.00|Ventas
+Rosario|Prieto|100000.00|Marketing
+Oyuki|Saldivar|50000.00|Marketing
