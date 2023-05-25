@@ -16,7 +16,7 @@ public class Conversacion {
         }
     }
 
-    // Clase para el hilo de Megm
+    // Clase para el hilo de Megm 1212 3
     class MegmThread extends Thread {
 
         private final Lock lock;
@@ -93,7 +93,7 @@ public class Conversacion {
         }
     }
 
-    // Clase para el hilo de Kathyo
+    // Clase para el hilo de Kathyo 12 12
     class KathyoThread extends Thread {
 
         private final Lock lock;
