@@ -25,7 +25,7 @@ import javax.swing.text.DefaultHighlighter;
             textArea.setWrapStyleWord(true);
             add(new JScrollPane(textArea), BorderLayout.CENTER);
             new AutoSaveThread().start();
-            new SpellCheckThread().start();
+            new SpellCheckThread().start(); /// inician los hilos
             setVisible(true);
             loadSavedText();
         }
